@@ -52,4 +52,4 @@ jobs:
           app-name: 'nodejs-webapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F35B3CDB5CF549FE80DD60BDD7530560 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36BDD3E534E94E7C903E75B5B65DA733 }}
